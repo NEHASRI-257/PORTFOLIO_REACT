@@ -6,7 +6,7 @@ This website showcases my *skills, projects, experience, and contact details* in
 ---
 
 ### Live Demo  
-[Click here to view Sky Cast](https://portfolio-react-delta-pink.vercel.app/)
+[Click here to view Portfolio](https://portfolio-react-delta-pink.vercel.app/)
 
 ## 🛠 Tech Stack
 
